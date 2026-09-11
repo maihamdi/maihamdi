@@ -36,9 +36,10 @@ The project includes:
 
 ## Currently Learning
 
+- Biomedical Engineering 
 - Data Analysis
-- Python for Data Analysis
 - Data Science
+- Bioinformatics
 
 ## Goal
 
