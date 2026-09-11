@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mai 👋
 
-<!--
-**maihamdi/maihamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student interested in Data Analytics and Data Science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my skills in data analysis, with a focus on turning data into clear insights and meaningful visualizations.
+
+My background in Biomedical Engineering also motivates me to explore the intersection between healthcare and data.
+
+## Skills
+
+- Microsoft Excel
+- Data Cleaning
+- PivotTables & PivotCharts
+- Data Visualization
+- Excel Functions
+- Python
+- Data Analysis
+
+## Projects
+
+### Customer Churn Analysis — Excel
+
+Analyzed Databel customer churn data using Microsoft Excel.
+
+The project includes:
+- Data cleaning and preparation
+- Churn rate analysis
+- PivotTables and PivotCharts
+- Customer segmentation
+- Data visualization
+- Excel dashboard
+
+[View Project](../customer-churn-analysis)
+
+## Currently Learning
+
+- Data Analysis
+- Python for Data Analysis
+- Data Science
+
+## Goal
+
+To build strong practical skills in Data Analytics and eventually explore Data Science and Bioinformatics.
